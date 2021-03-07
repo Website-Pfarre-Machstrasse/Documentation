@@ -1,0 +1,4 @@
+- [ ] document REST API
+- [ ] document client code
+- [ ] document server code
+- [ ] document storage model
