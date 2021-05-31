@@ -41,19 +41,19 @@ Um im Editor einen Text durchstreichen zu lassen muss man nur den gewünschten T
 
 Hier noch ein Beispiel wie das ganze im Editor dann aussehen würde.
 
-![image-20210531130729387](C:\Users\mrkon\AppData\Roaming\Typora\typora-user-images\image-20210531130729387.png)
+![image-20210531130729387](resources/image-20210531130729387.png)
 
 #### Zeilenumbruch
 
 Nur einmal die Enter-Taste zu drücken reicht in Markdown nicht um einen Zeilenumbruch zu verursachen. Um in die nächste Zeile zu gehen muss man eine Zeile Abstand zwischen den beiden Texten halten, also zwei Mal die Enter-Taste betätigen. Der nachfolgende Screenshot soll das ganze veranschaulichen.
 
-![image-20210531130758211](C:\Users\mrkon\AppData\Roaming\Typora\typora-user-images\image-20210531130758211.png)
+![image-20210531130758211](resources/image-20210531130758211.png)
 
 #### Überschriften
 
 Um eine Überschrift zu erzeugen, kann man den Drop-Down nutzen. Dieser ermöglicht, wie bei HTML, Überschriften von 1 bis 6. Jeder größer die Zahl desto niedriger die Überschrift. Das ganze kann man auch selbst erstellen indem man vor einem Text eine Raute und dann ein Leerzeichen eingibt.
 
-![image-20210531130815810](C:\Users\mrkon\AppData\Roaming\Typora\typora-user-images\image-20210531130815810.png)
+![image-20210531130815810](resources/image-20210531130815810.png)
 
 #### Ausrichtung
 
@@ -85,7 +85,7 @@ Um im Editor einen Text in einen Blocksatz umwandeln zu lassen muss man nur den 
 
 Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
-![image-20210531130842927](C:\Users\mrkon\AppData\Roaming\Typora\typora-user-images\image-20210531130842927.png)
+![image-20210531130842927](resources/image-20210531130842927.png)
 
 #### Listen
 
@@ -105,7 +105,7 @@ Um diese Liste zu erzeugen drückt man das Checklisten-Icon (2 Häkchen mit Lini
 
 Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
-![image-20210531130918439](C:\Users\mrkon\AppData\Roaming\Typora\typora-user-images\image-20210531130918439.png)
+![image-20210531130918439](resources/image-20210531130918439.png)
 
 #### Links einfügen
 
@@ -121,7 +121,7 @@ Der Code-Bereich in Markdown sorgt dafür das Zeilenumbrüche und Abstände sofo
 
 Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
-![image-20210531130959261](C:\Users\mrkon\AppData\Roaming\Typora\typora-user-images\image-20210531130959261.png)
+![image-20210531130959261](resources/image-20210531130959261.png)
 
 #### Zitate
 
@@ -129,7 +129,7 @@ Zitate in Markdown sorgen für sofortige Zeilenumbrüche und haben automatisch e
 
 Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
-![image-20210531131016518](C:\Users\mrkon\AppData\Roaming\Typora\typora-user-images\image-20210531131016518.png)
+![image-20210531131016518](resources/image-20210531131016518.png)
 
 ## Glossar
 
