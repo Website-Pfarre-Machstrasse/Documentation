@@ -109,6 +109,10 @@ Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
 #### Links einfügen
 
+Man kann in Markdown auch ganz einfach Links einfügen. Für die wichtigen Links, die zu einer der Unterseiten der Pfarre führen soll, ist ein eigenes Icon vorgegeben. Sie müssen dafür nur das Büroklammer-Icon (
+ 
+![Link](resources/Link.png)
+
 #### Bilder einfügen
 
 #### Video einfügen
