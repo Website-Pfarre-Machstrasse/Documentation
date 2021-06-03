@@ -109,7 +109,9 @@ Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
 #### Links einfügen
 
-Man kann in Markdown auch ganz einfach Links einfügen. Für die wichtigen Links, die zu einer der Unterseiten der Pfarre führen soll, ist ein eigenes Icon vorgegeben. Sie müssen dafür nur das Büroklammer-Icon (
+Man kann in Markdown auch ganz einfach Links einfügen. Für die wichtigen Links, die zu einer der Unterseiten der Pfarre führen soll, ist ein eigenes Icon vorgegeben. Sie müssen dafür nur das Büroklammer-Icon (Links vom Bild-Icon) drücken. Es öffnet sich danach ein Pop-Up-Fenster in welchem Sie die gewünschte Unterseite anklicken können. Nachdem Sie eins ausgewählt haben wird der Link dazu automatisch erstellt. Falls sie eigene Links machen oder auf externe Seiten verweisen wollen schreiben sie einfach eine eckige Klammer ("[]") gefolgt von zwei runden Klammern ("()"). In die eckigen Klammern kommt der Name des Links und in die runden Klammern der Link selber hinein.
+
+Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
  
 ![Link](resources/Link.png)
 
@@ -121,7 +123,7 @@ Man kann in Markdown auch ganz einfach Links einfügen. Für die wichtigen Links
 
 #### Code
 
-Der Code-Bereich in Markdown sorgt dafür das Zeilenumbrüche und Abstände sofort gelten. Also alles was man in den Code-Bereich eingibt wird auch eins zu eins im Preview-Fenster gespeigelt. Dazu drückt man das Code-Icon(„<>“-Icon). Andernfalls kann man es durch drei Wellen-Zeichen selber schreiben („~~~“).
+Der Code-Bereich in Markdown sorgt dafür das Zeilenumbrüche und Abstände sofort gelten. Also alles was man in den Code-Bereich eingibt wird auch eins zu eins im Preview-Fenster gespeigelt. Dazu drückt man das Code-Icon("<>"-Icon). Andernfalls kann man es durch drei Wellen-Zeichen selber schreiben ("~~~").
 
 Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
