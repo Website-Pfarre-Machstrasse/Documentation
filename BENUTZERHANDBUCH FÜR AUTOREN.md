@@ -113,7 +113,7 @@ Man kann in Markdown auch ganz einfach Links einfügen. Für die wichtigen Links
 
 Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
  
-![Link](resources/Link.png)
+![Link](resources/Link.PNG)
 
 #### Bilder einfügen
 
