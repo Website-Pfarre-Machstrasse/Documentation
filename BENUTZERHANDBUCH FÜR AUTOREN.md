@@ -1,4 +1,5 @@
 # BENUTZERHANDBUCH FÜR AUTOREN
+
 ## Editor
 
 Der Editor bietet Ihnen eine einfache und schnelle Möglichkeit den Inhalt der Website der Pfarre Machstraße zu ändern. Die folgenden Unterpunkte sollen Ihnen die Verwendung des Editors näherbringen.
@@ -41,19 +42,19 @@ Um im Editor einen Text durchstreichen zu lassen muss man nur den gewünschten T
 
 Hier noch ein Beispiel wie das ganze im Editor dann aussehen würde.
 
-![image-20210531130729387](resources/image-20210531130729387.png)
+![image-20210604120003338](resources/image-20210604120003338.png)
 
 #### Zeilenumbruch
 
-Nur einmal die Enter-Taste zu drücken reicht in Markdown nicht um einen Zeilenumbruch zu verursachen. Um in die nächste Zeile zu gehen muss man eine Zeile Abstand zwischen den beiden Texten halten, also zwei Mal die Enter-Taste betätigen. Der nachfolgende Screenshot soll das ganze veranschaulichen.
+Nur einmal die Enter-Taste zu drücken reicht in Markdown nicht um einen Zeilenumbruch zu verursachen. Um in die nächste Zeile szu gehen muss man eine Zeile Abstand zwischen den beiden Texten halten, also zwei Mal die Enter-Taste betätigen. Der nachfolgende Screenshot soll das ganze veranschaulichen.
 
-![image-20210531130758211](resources/image-20210531130758211.png)
+![image-20210604120421225](resources/image-20210604120421225.png)
 
 #### Überschriften
 
 Um eine Überschrift zu erzeugen, kann man den Drop-Down nutzen. Dieser ermöglicht, wie bei HTML, Überschriften von 1 bis 6. Jeder größer die Zahl desto niedriger die Überschrift. Das ganze kann man auch selbst erstellen indem man vor einem Text eine Raute und dann ein Leerzeichen eingibt.
 
-![image-20210531130815810](resources/image-20210531130815810.png)
+![image-20210604120449674](resources/image-20210604120449674.png)
 
 #### Ausrichtung
 
@@ -85,7 +86,7 @@ Um im Editor einen Text in einen Blocksatz umwandeln zu lassen muss man nur den 
 
 Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
-![image-20210531130842927](resources/image-20210531130842927.png)
+![image-20210604120525695](resources/image-20210604120525695.png)
 
 #### Listen
 
@@ -105,15 +106,15 @@ Um diese Liste zu erzeugen drückt man das Checklisten-Icon (2 Häkchen mit Lini
 
 Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
-![image-20210531130918439](resources/image-20210531130918439.png)
+![image-20210604120559231](resources/image-20210604120559231.png)
 
 #### Links einfügen
 
 Man kann in Markdown auch ganz einfach Links einfügen. Für die wichtigen Links, die zu einer der Unterseiten der Pfarre führen soll, ist ein eigenes Icon vorgegeben. Sie müssen dafür nur das Büroklammer-Icon (Links vom Bild-Icon) drücken. Es öffnet sich danach ein Pop-Up-Fenster in welchem Sie die gewünschte Unterseite anklicken können. Nachdem Sie eins ausgewählt haben wird der Link dazu automatisch erstellt. Falls sie eigene Links machen oder auf externe Seiten verweisen wollen schreiben sie einfach eine eckige Klammer ("[]") gefolgt von zwei runden Klammern ("()"). In die eckigen Klammern kommt der Name des Links und in die runden Klammern der Link selber hinein.
 
 Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
- 
-![Link](resources/Link.PNG)
+
+![image-20210604120644612](resources/image-20210604120644612.png)
 
 #### Bilder einfügen
 
@@ -123,11 +124,11 @@ Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
 #### Code
 
-Der Code-Bereich in Markdown sorgt dafür das Zeilenumbrüche und Abstände sofort gelten. Also alles was man in den Code-Bereich eingibt wird auch eins zu eins im Preview-Fenster gespeigelt. Dazu drückt man das Code-Icon("<>"-Icon). Andernfalls kann man es durch drei Wellen-Zeichen selber schreiben ("~~~").
+Der Code-Bereich in Markdown sorgt dafür das Zeilenumbrüche und Abstände sofort gelten. Also alles was man in den Code-Bereich eingibt wird auch eins zu eins im Preview-Fenster gespeigelt. Dazu drückt man das Code-Icon(„<>“-Icon). Andernfalls kann man es durch drei Wellen-Zeichen selber schreiben („~~~“).
 
 Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
-![image-20210531130959261](resources/image-20210531130959261.png)
+![image-20210604120712061](resources/image-20210604120712061.png)
 
 #### Zitate
 
@@ -135,7 +136,7 @@ Zitate in Markdown sorgen für sofortige Zeilenumbrüche und haben automatisch e
 
 Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
-![image-20210531131016518](resources/image-20210531131016518.png)
+![image-20210604120755482](resources/image-20210604120755482.png)
 
 ## Glossar
 
