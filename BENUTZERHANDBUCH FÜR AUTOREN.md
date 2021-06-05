@@ -118,9 +118,19 @@ Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
 
 #### Bilder einfügen
 
+Markdown bietet auch das Einfügen von Bildern an. Damit das ganze aber auf der Website angezeigt wird, können nur Bilder hinzugefügt werden die auch auf dem Server drauf sind. Dafür ist im Editor ein eigenes Icon vorgegeben. Sie müssen dafür nur das Bild-Icon (Rechts vom Büroklammer-Icon) drücken. Es öffnet sich danach ein Pop-Up-Fenster in welchem Sie das gewünschte Bild anklicken können. Nachdem Sie eins ausgewählt haben wird das Bild automatisch eingebettet. Falls Sie eigene Bilder einfügen wollen, müssen sie die Administratoren darum bitten diese auf dem Server zur Verfügung zu stellen.
+
+Hier noch ein Beispiel wie das Ganze im Editor dann aussehen würde.
+
+![image-20210605135453287](resources/image-20210605135453287.png)
+
 #### Video einfügen
 
+Markdown bietet auch das Einfügen von Videos an. Damit das ganze aber auf der Website angezeigt wird, können nur Videos hinzugefügt werden die auch auf dem Server drauf sind. Dafür ist im Editor ein eigenes Icon vorgegeben. Sie müssen dafür nur das Video-Icon (Rechts vom Bild-Icon) drücken. Es öffnet sich danach ein Pop-Up-Fenster in welchem Sie das gewünschte Video auswählen können. Nachdem Sie eins ausgewählt haben wird das Video automatisch eingebettet. Falls Sie eigene Videos einfügen wollen, müssen sie die Administratoren darum bitten diese auf dem Server zur Verfügung zu stellen.
+
 #### Audio einfügen
+
+Markdown bietet auch das Einfügen von Audios an. Damit das ganze aber auf der Website angezeigt wird, können nur Audios hinzugefügt werden die auch auf dem Server drauf sind. Dafür ist im Editor ein eigenes Icon vorgegeben. Sie müssen dafür nur das Sound-Icon (Links vom ersten Listen-Icon) drücken. Es öffnet sich danach ein Pop-Up-Fenster in welchem Sie das gewünschte Audio auswählen können. Nachdem Sie eins ausgewählt haben wird das Audio automatisch in den Editor eingebettet. Falls Sie ein eigenes Audio einfügen wollen, müssen sie die Administratoren darum bitten diese auf dem Server zur Verfügung zu stellen.
 
 #### Code
 
